@@ -3,8 +3,8 @@
 
 <svg
    width="19.200001"
-   height="19.200001"
-   viewBox="0 0 5.0800003 5.0800003"
+   height="21"
+   viewBox="0 0 5.0800003 5.5562501"
    version="1.1"
    id="svg1"
    inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
@@ -26,7 +26,7 @@
      showguides="false"
      inkscape:zoom="22.627417"
      inkscape:cx="7.1815532"
-     inkscape:cy="6.4302523"
+     inkscape:cy="11.424194"
      inkscape:window-width="1920"
      inkscape:window-height="1051"
      inkscape:window-x="-9"
@@ -40,11 +40,11 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:#3165a5;fill-opacity:1;stroke:#000000;stroke-width:0.201684;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#3d6ca5;fill-opacity:1;stroke:#000000;stroke-width:0.201684;stroke-dasharray:none;stroke-opacity:1"
        id="rect1"
        width="4.8783154"
        height="4.8783159"
        x="0.10052356"
-       y="0.10241187" />
+       y="0.57370096" />
   </g>
 </svg>

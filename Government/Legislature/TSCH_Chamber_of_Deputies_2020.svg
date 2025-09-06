@@ -90,11 +90,11 @@
         <circle cx="45.49" cy="130.02" r="2.80"/>
         <circle cx="65.21" cy="137.22" r="2.80"/>
         <circle cx="26.06" cy="122.01" r="2.80"/>
-        <circle cx="53.01" cy="129.94" r="2.80"/>
     </g>
     <g style="fill:#d10b0b"
        id="2-PSD-">
         <title>PSD+</title>
+        <circle cx="53.01" cy="129.94" r="2.80"/>
         <circle cx="33.60" cy="121.93" r="2.80"/>
         <circle cx="92.17" cy="145.13" r="2.80"/>
         <circle cx="72.76" cy="137.11" r="2.80"/>
@@ -212,11 +212,11 @@
         <circle cx="113.53" cy="94.24" r="2.80"/>
         <circle cx="75.16" cy="44.28" r="2.80"/>
         <circle cx="90.08" cy="59.32" r="2.80"/>
-        <circle cx="86.62" cy="53.17" r="2.80"/>
     </g>
     <g style="fill:#56277e"
        id="3-LTI">
         <title>LTI</title>
+        <circle cx="86.62" cy="53.17" r="2.80"/>
         <circle cx="128.43" cy="109.31" r="2.80"/>
         <circle cx="111.94" cy="86.69" r="2.80"/>
         <circle cx="83.15" cy="47.03" r="2.80"/>
@@ -274,11 +274,11 @@
         <circle cx="117.05" cy="20.47" r="2.80"/>
         <circle cx="125.08" cy="39.88" r="2.80"/>
         <circle cx="133.11" cy="59.29" r="2.80"/>
-        <circle cx="141.14" cy="78.70" r="2.80"/>
     </g>
     <g style="fill:#255e4b"
        id="4-PPI">
         <title>PPI</title>
+        <circle cx="141.14" cy="78.70" r="2.80"/>
         <circle cx="136.74" cy="65.39" r="2.80"/>
         <circle cx="149.16" cy="98.11" r="2.80"/>
         <circle cx="144.76" cy="84.81" r="2.80"/>
@@ -296,11 +296,11 @@
         <circle cx="132.88" cy="22.39" r="2.80"/>
         <circle cx="132.29" cy="15.27" r="2.80"/>
         <circle cx="148.07" cy="69.00" r="2.80"/>
-        <circle cx="136.59" cy="28.60" r="2.80"/>
     </g>
     <g style="fill:#e7511e"
        id="5-ADLR">
         <title>ADLR</title>
+        <circle cx="136.59" cy="28.60" r="2.80"/>
         <circle cx="140.88" cy="41.94" r="2.80"/>
         <circle cx="152.36" cy="82.33" r="2.80"/>
         <circle cx="156.65" cy="95.67" r="2.80"/>
@@ -398,11 +398,11 @@
         <circle cx="196.03" cy="86.87" r="2.80"/>
         <circle cx="207.84" cy="24.98" r="2.80"/>
         <circle cx="195.67" cy="93.92" r="2.80"/>
-        <circle cx="203.85" cy="52.72" r="2.80"/>
     </g>
     <g style="fill:#f2a200"
        id="6-NTEA">
         <title>NTEA</title>
+        <circle cx="203.85" cy="52.72" r="2.80"/>
         <circle cx="212.04" cy="11.52" r="2.80"/>
         <circle cx="211.66" cy="18.58" r="2.80"/>
         <circle cx="199.86" cy="80.46" r="2.80"/>
@@ -433,11 +433,11 @@
         <circle cx="223.03" cy="50.46" r="2.80"/>
         <circle cx="235.39" cy="17.69" r="2.80"/>
         <circle cx="231.04" cy="31.00" r="2.80"/>
-        <circle cx="226.69" cy="44.31" r="2.80"/>
     </g>
     <g style="fill:#e87c00"
        id="7-FFT">
         <title>FFT</title>
+        <circle cx="226.69" cy="44.31" r="2.80"/>
         <circle cx="234.70" cy="24.86" r="2.80"/>
         <circle cx="211.59" cy="90.94" r="2.80"/>
         <circle cx="219.62" cy="71.51" r="2.80"/>
@@ -449,11 +449,11 @@
         <circle cx="234.92" cy="39.88" r="2.80"/>
         <circle cx="242.95" cy="20.47" r="2.80"/>
         <circle cx="230.50" cy="53.19" r="2.80"/>
-        <circle cx="238.54" cy="33.78" r="2.80"/>
     </g>
-    <g style="fill:#365f91"
+    <g style="fill:#3d6ca5"
        id="8-RPNR">
         <title>RPNR</title>
+        <circle cx="238.54" cy="33.78" r="2.80"/>
         <circle cx="234.11" cy="47.09" r="2.80"/>
         <circle cx="242.14" cy="27.69" r="2.80"/>
         <circle cx="227.11" cy="74.54" r="2.80"/>
@@ -583,11 +583,11 @@
         <circle cx="311.68" cy="93.59" r="2.80"/>
         <circle cx="253.18" cy="132.03" r="2.80"/>
         <circle cx="300.29" cy="101.76" r="2.80"/>
-        <circle cx="307.76" cy="100.45" r="2.80"/>
     </g>
     <g style="fill:#21278a"
        id="9-PRN">
         <title>PRN</title>
+        <circle cx="307.76" cy="100.45" r="2.80"/>
         <circle cx="319.90" cy="93.47" r="2.80"/>
         <circle cx="284.20" cy="115.60" r="2.80"/>
         <circle cx="296.34" cy="108.61" r="2.80"/>
@@ -611,11 +611,11 @@
         <circle cx="264.55" cy="137.79" r="2.80"/>
         <circle cx="296.08" cy="122.59" r="2.80"/>
         <circle cx="327.61" cy="107.40" r="2.80"/>
-        <circle cx="283.98" cy="129.72" r="2.80"/>
     </g>
     <g style="fill:#344357"
        id="10-NCD">
         <title>NCD</title>
+        <circle cx="283.98" cy="129.72" r="2.80"/>
         <circle cx="315.51" cy="114.52" r="2.80"/>
         <circle cx="334.93" cy="106.45" r="2.80"/>
         <circle cx="303.86" cy="122.63" r="2.80"/>

@@ -24,9 +24,9 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
      showguides="false"
-     inkscape:zoom="22.627417"
-     inkscape:cx="7.1815532"
-     inkscape:cy="11.424194"
+     inkscape:zoom="45.254834"
+     inkscape:cx="9.1592425"
+     inkscape:cy="8.5847183"
      inkscape:window-width="1920"
      inkscape:window-height="1051"
      inkscape:window-x="-9"
@@ -40,11 +40,17 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:#3d6ca5;fill-opacity:1;stroke:#000000;stroke-width:0.201684;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#4174b2;fill-opacity:1;stroke:#000000;stroke-width:0.201684;stroke-dasharray:none;stroke-opacity:1"
        id="rect1"
        width="4.8783154"
        height="4.8783159"
        x="0.10052356"
        y="0.57370096" />
+    <circle
+       id="path2"
+       style="fill:#3d6ca5;stroke:#000000;stroke-width:0.264583"
+       cx="2.0287428"
+       cy="0.081851296"
+       r="3.9200254e-06" />
   </g>
 </svg>

@@ -3,8 +3,8 @@
 
 <svg
    width="19.200001"
-   height="19.200001"
-   viewBox="0 -1 5.0800003 7.0800003"
+   height="21"
+   viewBox="0 0 5.0800003 5.5562501"
    version="1.1"
    id="svg1"
    inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
@@ -22,7 +22,7 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#505050"
-     inkscape:document-units="px"
+     inkscape:document-units="mm"
      showguides="false"
      inkscape:zoom="45.254834"
      inkscape:cx="9.1592425"
@@ -45,7 +45,7 @@
        width="4.8783154"
        height="4.8783159"
        x="0.10052356"
-       y="0.10597929" />
+       y="0.57370096" />
     <circle
        id="path2"
        style="fill:#3d6ca5;stroke:#000000;stroke-width:0.264583"

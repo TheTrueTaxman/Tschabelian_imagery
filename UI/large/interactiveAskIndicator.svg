@@ -4,8 +4,8 @@
 <svg
    version="1.1"
    id="svg1"
-   width="306"
-   height="306"
+   width="200"
+   height="200"
    viewBox="0 0 306 306"
    sodipodi:docname="interactiveAskIndicator.svg"
    inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
@@ -277,5 +277,5 @@
        id="text2"><tspan
          sodipodi:role="line"
          id="tspan2"
-         x="61.610954"
-         y="272.8959">?</tspan></text></g></svg>
+         x="79.610954"
+         y="261.8959">?</tspan></text></g></svg>

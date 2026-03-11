@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="330"
+   width="335.97998"
    height="1.9999999"
-   viewBox="0 0 87.312498 0.52916663"
+   viewBox="0 0 88.894701 0.52916663"
    version="1.1"
    id="svg1"
    inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
@@ -38,8 +38,8 @@
     <inkscape:grid
        id="grid2"
        units="mm"
-       originx="395.15071"
-       originy="-488.81236"
+       originx="395.15069"
+       originy="-488.81235"
        spacingx="0.99999998"
        spacingy="0.99999999"
        empcolor="#0099e5"
@@ -618,9 +618,9 @@
          x="10.965739"
          y="698.87317">adlr</tspan></text>
     <rect
-       style="fill:#d61c37;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.610221;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#d61c37;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.615725;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
        id="rect75"
-       width="87.3125"
+       width="88.894707"
        height="0.52916664"
        x="-412.86652"
        y="550.64392" />

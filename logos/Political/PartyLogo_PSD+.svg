@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="176.46742"
+   width="176.07893"
    height="150"
-   viewBox="0 0 46.690339 39.6875"
+   viewBox="0 0 46.587551 39.6875"
    version="1.1"
    id="svg1"
    sodipodi:docname="PartyLogo_PSD+.svg"
@@ -23,15 +23,15 @@
      inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
-     inkscape:zoom="3.0467172"
-     inkscape:cx="140.64318"
-     inkscape:cy="103.55408"
+     inkscape:zoom="2.1543544"
+     inkscape:cx="64.52049"
+     inkscape:cy="92.138972"
      inkscape:window-width="1920"
      inkscape:window-height="1057"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g161" />
+     inkscape:current-layer="layer1" />
   <defs
      id="defs1">
     <filter
@@ -65,26 +65,26 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-75.670832,-118.26875)">
+     transform="translate(-75.700287,-118.72196)">
     <rect
-       style="fill:#ffffff;fill-rule:evenodd;stroke-width:1.04441;stroke-linecap:square;stroke-linejoin:round"
+       style="fill:#ffffff;fill-rule:evenodd;stroke-width:1.04326;stroke-linecap:square;stroke-linejoin:round"
        id="rect2"
-       width="46.690338"
+       width="46.587547"
        height="39.6875"
-       x="75.67083"
-       y="118.26875" />
+       x="75.700287"
+       y="118.72196" />
     <rect
-       style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.831505;stroke-linecap:square;stroke-linejoin:round"
+       style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.842258;stroke-linecap:square;stroke-linejoin:round"
        id="rect1"
-       width="9.986659"
-       height="12.617645"
-       x="88.619873"
-       y="131.41425" />
+       width="10.268896"
+       height="12.590264"
+       x="88.596657"
+       y="132.18416" />
     <g
        id="g161"
        inkscape:label="PSD+ Logo"
        inkscape:highlight-color="#ec2121"
-       transform="translate(-3.1411677,-409.63289)">
+       transform="rotate(-7.4370158,-3050.8487,367.09494)">
       <path
          id="path139"
          style="font-size:21.0049px;line-height:19.6921px;font-family:'DIN 2014';-inkscape-font-specification:'DIN 2014, ';baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;fill-rule:evenodd;stroke-linecap:square;stroke-linejoin:round;filter:url(#filter144);enable-background:accumulate;stop-color:#000000;stop-opacity:1"

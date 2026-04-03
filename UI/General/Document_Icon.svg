@@ -2,13 +2,16 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="4.3920798mm"
-   height="5.9795799mm"
-   viewBox="0 0 4.3920798 5.9795799"
+   width="2.5264263mm"
+   height="3.4395864mm"
+   viewBox="0 0 2.5264263 3.4395864"
    version="1.1"
    id="svg1"
    inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
    sodipodi:docname="Document_Icon.svg"
+   inkscape:export-filename="..\General_UI\Document_Icon.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -38,35 +41,35 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-106.62709,-130.43959)">
+     transform="translate(-106.62708,-130.43958)">
     <path
        id="rect1"
-       style="fill:#ffffff;fill-rule:evenodd;stroke:#979797;stroke-width:0.15875;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       d="m 106.70646,130.51896 v 5.82083 h 4.23333 v -4.05505 l -1.76578,-1.76578 z" />
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#979797;stroke-width:0.0913164;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 106.67274,130.48524 v 3.34827 h 2.43511 v -2.33255 l -1.01572,-1.01572 z" />
     <path
-       style="display:inline;fill:none;fill-rule:evenodd;stroke:#979797;stroke-width:0.15875;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       d="m 110.91344,132.3112 h -1.76571 v -1.76579"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#979797;stroke-width:0.0913164;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 109.09269,131.51618 h -1.01568 v -1.01572"
        id="path2"
        sodipodi:nodetypes="ccc" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#292929;stroke-width:0.15875;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       d="m 107.13859,132.87499 h 3.27767"
+       style="fill:none;fill-rule:evenodd;stroke:#292929;stroke-width:0.0913164;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 106.92131,131.84048 h 1.88539"
        id="path4" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#292929;stroke-width:0.15875;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       d="m 107.13859,133.6288 h 3.27767"
+       style="fill:none;fill-rule:evenodd;stroke:#292929;stroke-width:0.0913164;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 106.92131,132.27409 h 1.88539"
        id="path5" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#292929;stroke-width:0.15875;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       d="m 107.13859,134.33022 h 3.27767"
+       style="fill:none;fill-rule:evenodd;stroke:#292929;stroke-width:0.0913164;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 106.92131,132.67756 h 1.88539"
        id="path6" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#292929;stroke-width:0.15875;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       d="m 107.13859,135.03165 h 3.27767"
+       style="fill:none;fill-rule:evenodd;stroke:#292929;stroke-width:0.0913164;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 106.92131,133.08104 h 1.88539"
        id="path7" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#292929;stroke-width:0.15875;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       d="m 107.13859,135.73308 h 3.27767"
+       style="fill:none;fill-rule:evenodd;stroke:#292929;stroke-width:0.0913164;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 106.92131,133.48452 h 1.88539"
        id="path8" />
   </g>
 </svg>

@@ -1,5 +1,3 @@
-Any photographs within this folder do not belong to me. 
+Photographs within this folder do not originally belong to me; I have edited some for personal purposes.
 
-Some have been edited.
-
-Credit goes to their respective owners.
+Credit goes to their respective authors.
